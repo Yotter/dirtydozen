@@ -1,0 +1,1 @@
+Goal of the game: Drag the red 2x2 square into the bottom right corner to win a level. Have fun, drive safe!
